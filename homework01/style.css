@@ -1,0 +1,22 @@
+.purple_block {
+  color: purple;
+}
+
+.red_block {
+  color: red;
+  background-color: rgb(104, 221, 81);
+}
+
+.blue_eyes {
+  color: aqua;
+  background-color: cadetblue;
+}
+
+/* p {
+  color: green;
+  background-color: greenyellow;
+} */
+
+#sun {
+  color: yellow;
+}

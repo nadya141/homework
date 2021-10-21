@@ -1,0 +1,17 @@
+/* div {
+  border: 2px solid;
+  border-color: green;
+} */
+
+/* #home div span {
+  border: 4px solid;
+  border-color: green;
+} */
+
+/* .container > span.block {
+  color: red;
+} */
+
+section.container > span {
+  color: red
+}

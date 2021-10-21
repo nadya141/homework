@@ -1,0 +1,60 @@
+.container {
+  position: relative;
+}
+
+.red-block {
+  position: relative;
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  z-index: 2;
+}
+
+.blue-block {
+  position: relative;
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+  left: 100px;
+  top: -300px;
+  z-index: 2;
+}
+
+.green-block {
+  position: relative;
+  background-color: greenyellow;
+  width: 200px;
+  height: 200px;
+  left: 50px;
+  top: -150px;
+  z-index: 3;
+}
+
+
+.container1 {
+  position: relative;
+}
+
+.block1 {
+  position: relative;
+  background-color: chocolate;
+  width: 100px;
+  height: 100px;
+}
+
+.block2 {
+  position: relative;
+  background-color: darkmagenta;
+  width: 100px;
+  height: 100px;
+  left: 100px;
+}
+
+.block3 {
+  position: relative;
+  background-color: deeppink;
+  width: 100px;
+  height: 100px;
+  left: 50px;
+  top: -150px;
+}
